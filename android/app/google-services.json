@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "564749704903",
+    "project_id": "ungfindtechnic",
+    "storage_bucket": "ungfindtechnic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564749704903:android:916e3627fccb2e1c47e8e2",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungfindteachnic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564749704903-rrl3vqvclfccofos9df3rgejj9jsckl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterthailand.ungfindteachnic",
+            "certificate_hash": "99f1de59cbbb9f0ab27aeb63c596235bc843b92a"
+          }
+        },
+        {
+          "client_id": "564749704903-g3jmf7qk50ap3kcsqv7v3qhio0878k0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQO22ZgY4k-W0-rs3mHS4cqVUeJy6qfW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564749704903-g3jmf7qk50ap3kcsqv7v3qhio0878k0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564749704903-huhcss7iqfvrbcfn6qrridsltit4i0p2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterthailand.ungfindteachnic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
